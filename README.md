@@ -1,4 +1,4 @@
-LeetCode solution for Java.
+LeetCode solution for Java or Python.
 
 | 编号 |     题目     |                             语言                             | 难度 |
 | :--: | :----------: | :----------------------------------------------------------: | :--: |
