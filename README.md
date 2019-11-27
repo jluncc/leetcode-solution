@@ -2,6 +2,7 @@ LeetCode solution for Java or Python.
 
 | 编号 |     题目     |                             语言                             | 难度 | 备注 |
 | :--: | :----------: | :----------------------------------------------------------: | :--: | :--: |
+| 28  | 实现strStr() | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/28-实现strStr.md) | 简单 | 数组 |
 | 54  | 螺旋矩阵 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/54-螺旋矩阵.md) | 中等 | 数组 |
 | 66  | 加一 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/66-加一.md) | 简单 | 数组 |
 | 67  | 二进制求和 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/67-二进制求和.md) | 简单 | 数组 |
