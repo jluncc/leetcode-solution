@@ -10,6 +10,7 @@ LeetCode solution for Java or Python.
 | 67  | 二进制求和 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/67-二进制求和.md) | 简单 | 数组 |
 | 118  | 杨辉三角 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/118-杨辉三角.md) | 简单 | 数组 |
 | 167  | 两数之和 II - 输入有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/167-两数之和II-输入有序数组.md) | 简单 | 数组 |
+| 189  | 旋转数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/189-旋转数组.md) | 简单 | 数组 |
 | 200  |   岛屿数量   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/200-岛屿数量.md) | 中等 | 链表 |
 | 209  |   长度最小的子数组   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/209-长度最小的子数组.md) | 中等 | 数组 |
 | 344  |   反转字符串   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/344-反转字符串.md) | 简单 | 数组 |
