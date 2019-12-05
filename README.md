@@ -9,6 +9,8 @@ LeetCode solution for Java or Python.
 | 66  | 加一 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/66-加一.md) | 简单 | 数组 |
 | 67  | 二进制求和 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/67-二进制求和.md) | 简单 | 数组 |
 | 118  | 杨辉三角 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/118-杨辉三角.md) | 简单 | 数组 |
+| 119  | 杨辉三角 II | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/119-杨辉三角II.md) | 简单 | 数组 |
+| 151  | 翻转字符串里的单词 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/151-翻转字符串里的单词.md) | 中等 | 数组 |
 | 167  | 两数之和 II - 输入有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/167-两数之和II-输入有序数组.md) | 简单 | 数组 |
 | 189  | 旋转数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/189-旋转数组.md) | 简单 | 数组 |
 | 200  |   岛屿数量   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/200-岛屿数量.md) | 中等 | 链表 |
@@ -16,6 +18,7 @@ LeetCode solution for Java or Python.
 | 344  |   反转字符串   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/344-反转字符串.md) | 简单 | 数组 |
 | 485  |   最大连续1的个数   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/485-最大连续1的个数.md) | 简单 | 数组 |
 | 498  |   对角线遍历   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/498-对角线遍历.md) | 中等 | 数组 |
+| 557  |   反转字符串中的单词 III   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/557-反转字符串中的单词III.md) | 简单 | 数组 |
 | 561  |   数组拆分 I   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/561-数组拆分I.md) | 简单 | 数组 |
 | 622  | 设计循环队列 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/622-设计循环队列.md) | 中等 | 链表 |
 | 724  | 寻找数组的中心索引 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/724-寻找数组的中心索引.md) | 简单 | 数组 |
