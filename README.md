@@ -3,6 +3,7 @@ LeetCode solution for Java or Python.
 | 编号 |     题目     |                             语言                             | 难度 | 备注 |
 | :--: | :----------: | :----------------------------------------------------------: | :--: | :--: |
 | 14  | 最长公共前缀 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/14-最长公共前缀.md) | 简单 | 数组 |
+| 26  | 删除排序数组中的重复项 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/26-删除排序数组中的重复项.md) | 简单 | 数组 |
 | 27  | 移除元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/27-移除元素.md) | 简单 | 数组 |
 | 28  | 实现strStr() | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/28-实现strStr.md) | 简单 | 数组 |
 | 54  | 螺旋矩阵 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/54-螺旋矩阵.md) | 中等 | 数组 |
@@ -15,6 +16,7 @@ LeetCode solution for Java or Python.
 | 189  | 旋转数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/189-旋转数组.md) | 简单 | 数组 |
 | 200  |   岛屿数量   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/200-岛屿数量.md) | 中等 | 链表 |
 | 209  |   长度最小的子数组   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/209-长度最小的子数组.md) | 中等 | 数组 |
+| 283  |   移动零   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/283-移动零.md) | 简单 | 数组 |
 | 344  |   反转字符串   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/344-反转字符串.md) | 简单 | 数组 |
 | 485  |   最大连续1的个数   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/485-最大连续1的个数.md) | 简单 | 数组 |
 | 498  |   对角线遍历   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/498-对角线遍历.md) | 中等 | 数组 |
