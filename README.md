@@ -2,6 +2,8 @@ LeetCode solution for Java or Python.
 
 | 编号 |     题目     |                             语言                             | 难度 | 备注 |
 | :--: | :----------: | :----------------------------------------------------------: | :--: | :--: |
+| 1  | 两数之和 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1-两数之和.md) | 简单 | 数组 |
+| 7  | 整数翻转 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/7-整数翻转.md) | 简单 | 数组 |
 | 14  | 最长公共前缀 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/14-最长公共前缀.md) | 简单 | 数组 |
 | 26  | 删除排序数组中的重复项 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/26-删除排序数组中的重复项.md) | 简单 | 数组 |
 | 27  | 移除元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/27-移除元素.md) | 简单 | 数组 |
