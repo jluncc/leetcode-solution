@@ -8,6 +8,8 @@ LeetCode solution for Java or Python.
 | 26  | 删除排序数组中的重复项 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/26-删除排序数组中的重复项.md) | 简单 | 数组 |
 | 27  | 移除元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/27-移除元素.md) | 简单 | 数组 |
 | 28  | 实现strStr() | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/28-实现strStr.md) | 简单 | 数组 |
+| 35  | 搜索插入位置 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/35-搜索插入位置.md) | 简单 | 数组 |
+| 53  | 最大子序和 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/53-最大子序和.md) | 简单 | 数组 |
 | 54  | 螺旋矩阵 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/54-螺旋矩阵.md) | 中等 | 数组 |
 | 66  | 加一 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/66-加一.md) | 简单 | 数组 |
 | 67  | 二进制求和 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/67-二进制求和.md) | 简单 | 数组 |
