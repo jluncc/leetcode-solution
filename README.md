@@ -13,8 +13,10 @@ LeetCode solution for Java or Python.
 | 54  | 螺旋矩阵 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/54-螺旋矩阵.md) | 中等 | 数组 |
 | 66  | 加一 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/66-加一.md) | 简单 | 数组 |
 | 67  | 二进制求和 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/67-二进制求和.md) | 简单 | 数组 |
+| 88  | 合并两个有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/88-合并两个有序数组.md) | 简单 | 数组 |
 | 118  | 杨辉三角 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/118-杨辉三角.md) | 简单 | 数组 |
 | 119  | 杨辉三角 II | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/119-杨辉三角II.md) | 简单 | 数组 |
+| 121  | 买卖股票的最佳时机 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/121-买卖股票的最佳时机.md) | 简单 | 数组 |
 | 151  | 翻转字符串里的单词 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/151-翻转字符串里的单词.md) | 中等 | 数组 |
 | 167  | 两数之和 II - 输入有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/167-两数之和II-输入有序数组.md) | 简单 | 数组 |
 | 189  | 旋转数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/189-旋转数组.md) | 简单 | 数组 |
