@@ -19,9 +19,11 @@ LeetCode solution for Java or Python.
 | 121  | 买卖股票的最佳时机 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/121-买卖股票的最佳时机.md) | 简单 | 数组 |
 | 151  | 翻转字符串里的单词 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/151-翻转字符串里的单词.md) | 中等 | 数组 |
 | 167  | 两数之和 II - 输入有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/167-两数之和II-输入有序数组.md) | 简单 | 数组 |
+| 169  | 多数元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/169-多数元素.md) | 简单 | 数组 |
 | 189  | 旋转数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/189-旋转数组.md) | 简单 | 数组 |
 | 200  |   岛屿数量   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/200-岛屿数量.md) | 中等 | 链表 |
 | 209  |   长度最小的子数组   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/209-长度最小的子数组.md) | 中等 | 数组 |
+| 217  |   存在重复元素   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/217-存在重复元素.md) | 简单 | 数组 |
 | 283  |   移动零   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/283-移动零.md) | 简单 | 数组 |
 | 344  |   反转字符串   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/344-反转字符串.md) | 简单 | 数组 |
 | 485  |   最大连续1的个数   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/485-最大连续1的个数.md) | 简单 | 数组 |
