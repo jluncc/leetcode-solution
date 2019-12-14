@@ -24,6 +24,8 @@ LeetCode solution for Java or Python.
 | 200  |   岛屿数量   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/200-岛屿数量.md) | 中等 | 链表 |
 | 209  |   长度最小的子数组   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/209-长度最小的子数组.md) | 中等 | 数组 |
 | 217  |   存在重复元素   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/217-存在重复元素.md) | 简单 | 数组 |
+| 219  |   存在重复元素 II   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/219-存在重复元素II.md) | 简单 | 数组 |
+| 268  |    缺失数字   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/268-缺失数字.md) | 简单 | 数组 |
 | 283  |   移动零   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/283-移动零.md) | 简单 | 数组 |
 | 344  |   反转字符串   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/344-反转字符串.md) | 简单 | 数组 |
 | 485  |   最大连续1的个数   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/485-最大连续1的个数.md) | 简单 | 数组 |
