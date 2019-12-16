@@ -28,6 +28,7 @@ LeetCode solution for Java or Python.
 | 268  |    缺失数字   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/268-缺失数字.md) | 简单 | 数组 |
 | 283  |   移动零   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/283-移动零.md) | 简单 | 数组 |
 | 344  |   反转字符串   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/344-反转字符串.md) | 简单 | 数组 |
+| 414  |   第三大的数   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/414-第三大的数.md) | 简单 | 数组 |
 | 485  |   最大连续1的个数   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/485-最大连续1的个数.md) | 简单 | 数组 |
 | 498  |   对角线遍历   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/498-对角线遍历.md) | 中等 | 数组 |
 | 557  |   反转字符串中的单词 III   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/557-反转字符串中的单词III.md) | 简单 | 数组 |
