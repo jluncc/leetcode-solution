@@ -31,6 +31,7 @@ LeetCode solution for Java or Python.
 | 414  |   第三大的数   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/414-第三大的数.md) | 简单 | 数组 |
 | 485  |   最大连续1的个数   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/485-最大连续1的个数.md) | 简单 | 数组 |
 | 498  |   对角线遍历   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/498-对角线遍历.md) | 中等 | 数组 |
+| 532  |   数组中的K-diff数对   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/532-数组中的K-diff数对.md) | 简单 | 数组 |
 | 557  |   反转字符串中的单词 III   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/557-反转字符串中的单词III.md) | 简单 | 数组 |
 | 561  |   数组拆分 I   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/561-数组拆分I.md) | 简单 | 数组 |
 | 622  | 设计循环队列 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/622-设计循环队列.md) | 中等 | 链表 |
