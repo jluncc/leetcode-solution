@@ -34,7 +34,9 @@ LeetCode solution for Java or Python.
 | 532  |   数组中的K-diff数对   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/532-数组中的K-diff数对.md) | 简单 | 数组 |
 | 557  |   反转字符串中的单词 III   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/557-反转字符串中的单词III.md) | 简单 | 数组 |
 | 561  |   数组拆分 I   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/561-数组拆分I.md) | 简单 | 数组 |
+| 581  |   最短无序连续子数组   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/581-最短无序连续子数组.md) | 简单 | 数组 |
 | 622  | 设计循环队列 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/622-设计循环队列.md) | 中等 | 链表 |
+| 628  | 三个数的最大乘积 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/628-三个数的最大乘积.md) | 简单 | 数组 |
 | 724  | 寻找数组的中心索引 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/724-寻找数组的中心索引.md) | 简单 | 数组 |
 | 747  | 至少是其他数字两倍的最大数 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/747-至少是其他数字两倍的最大数.md) | 简单 | 数组 |
 
