@@ -20,6 +20,7 @@ LeetCode solution for Java or Python.
 | 151  | 翻转字符串里的单词 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/151-翻转字符串里的单词.md) | 中等 | 数组 |
 | 167  | 两数之和 II - 输入有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/167-两数之和II-输入有序数组.md) | 简单 | 数组 |
 | 169  | 多数元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/169-多数元素.md) | 简单 | 数组 |
+| 179  | 最大数 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/179-最大数.md) | 中等 | 数组 |
 | 189  | 旋转数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/189-旋转数组.md) | 简单 | 数组 |
 | 200  |   岛屿数量   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/200-岛屿数量.md) | 中等 | 链表 |
 | 209  |   长度最小的子数组   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/209-长度最小的子数组.md) | 中等 | 数组 |
