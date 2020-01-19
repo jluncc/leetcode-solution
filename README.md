@@ -42,4 +42,6 @@ LeetCode solution for Java or Python.
 | 643  | 子数组最大平均数 I | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/643-子数组最大平均数I.md) | 简单 | 数组 |
 | 724  | 寻找数组的中心索引 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/724-寻找数组的中心索引.md) | 简单 | 数组 |
 | 747  | 至少是其他数字两倍的最大数 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/747-至少是其他数字两倍的最大数.md) | 简单 | 数组 |
+| 1287  | 有序数组中出现次数超过25%的元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1299-有序数组中出现次数超过25%的元素.md) | 简单 | 数组 |
+| 1299  | 将每个元素替换为右侧最大元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1299-将每个元素替换为右侧最大元素.md) | 简单 | 数组 |
 
