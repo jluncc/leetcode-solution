@@ -45,4 +45,5 @@ LeetCode solution for Java or Python.
 | 1287  | 有序数组中出现次数超过25%的元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1299-有序数组中出现次数超过25%的元素.md) | 简单 | 数组 |
 | 1299  | 将每个元素替换为右侧最大元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1299-将每个元素替换为右侧最大元素.md) | 简单 | 数组 |
 | 1313  | 解压缩编码列表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1313-解压缩编码列表.md) | 简单 | 数组 |
+| 1331  | 数组序号转换 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1331-数组序号转换.md) | 简单 | 数组 |
 
