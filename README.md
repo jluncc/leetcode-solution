@@ -40,6 +40,7 @@ LeetCode solution for Java or Python.
 | 622  | 设计循环队列 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/622-设计循环队列.md) | 中等 | 链表 |
 | 628  | 三个数的最大乘积 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/628-三个数的最大乘积.md) | 简单 | 数组 |
 | 643  | 子数组最大平均数 I | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/643-子数组最大平均数I.md) | 简单 | 数组 |
+| 707  | 设计链表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/707-设计链表.md) | 中等 | 链表 |
 | 724  | 寻找数组的中心索引 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/724-寻找数组的中心索引.md) | 简单 | 数组 |
 | 747  | 至少是其他数字两倍的最大数 | [Java / Python3](https://github.com/jluncc/leetcode-solution/blob/master/数组/747-至少是其他数字两倍的最大数.md) | 简单 | 数组 |
 | 1287  | 有序数组中出现次数超过25%的元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1299-有序数组中出现次数超过25%的元素.md) | 简单 | 数组 |
