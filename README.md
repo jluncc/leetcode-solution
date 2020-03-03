@@ -17,6 +17,7 @@ LeetCode solution for Java or Python.
 | 118  | 杨辉三角 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/118-杨辉三角.md) | 简单 | 数组 |
 | 119  | 杨辉三角 II | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/119-杨辉三角II.md) | 简单 | 数组 |
 | 121  | 买卖股票的最佳时机 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/121-买卖股票的最佳时机.md) | 简单 | 数组 |
+| 141  | 环形链表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/141-环形链表.md) | 简单 | 链表 |
 | 151  | 翻转字符串里的单词 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/151-翻转字符串里的单词.md) | 中等 | 数组 |
 | 167  | 两数之和 II - 输入有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/167-两数之和II-输入有序数组.md) | 简单 | 数组 |
 | 169  | 多数元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/169-多数元素.md) | 简单 | 数组 |
@@ -47,4 +48,5 @@ LeetCode solution for Java or Python.
 | 1299  | 将每个元素替换为右侧最大元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1299-将每个元素替换为右侧最大元素.md) | 简单 | 数组 |
 | 1313  | 解压缩编码列表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1313-解压缩编码列表.md) | 简单 | 数组 |
 | 1331  | 数组序号转换 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1331-数组序号转换.md) | 简单 | 数组 |
+| -  | 合并排序的数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/合并排序的数组.md) | 简单 | 数组 |
 
