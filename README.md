@@ -5,6 +5,7 @@ LeetCode solution for Java or Python.
 | 1  | 两数之和 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/1-两数之和.md) | 简单 | 数组 |
 | 7  | 整数翻转 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/7-整数翻转.md) | 简单 | 数组 |
 | 14  | 最长公共前缀 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/14-最长公共前缀.md) | 简单 | 数组 |
+| 19  | 删除链表的倒数第N个节点 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/19-删除链表的倒数第N个节点.md) | 中等 | 链表 |
 | 26  | 删除排序数组中的重复项 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/26-删除排序数组中的重复项.md) | 简单 | 数组 |
 | 27  | 移除元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/27-移除元素.md) | 简单 | 数组 |
 | 28  | 实现strStr() | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/28-实现strStr.md) | 简单 | 数组 |
@@ -18,7 +19,9 @@ LeetCode solution for Java or Python.
 | 119  | 杨辉三角 II | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/119-杨辉三角II.md) | 简单 | 数组 |
 | 121  | 买卖股票的最佳时机 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/121-买卖股票的最佳时机.md) | 简单 | 数组 |
 | 141  | 环形链表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/141-环形链表.md) | 简单 | 链表 |
+| 142  | 环形链表 II | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/142-环形链表II.md) | 中等 | 链表 |
 | 151  | 翻转字符串里的单词 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/151-翻转字符串里的单词.md) | 中等 | 数组 |
+| 160  | 相交链表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/160-相交链表.md) | 简单 | 链表 |
 | 167  | 两数之和 II - 输入有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/167-两数之和II-输入有序数组.md) | 简单 | 数组 |
 | 169  | 多数元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/169-多数元素.md) | 简单 | 数组 |
 | 179  | 最大数 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/179-最大数.md) | 中等 | 数组 |
