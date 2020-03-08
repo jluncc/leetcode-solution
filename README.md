@@ -21,12 +21,13 @@ LeetCode solution for Java or Python.
 | 141  | 环形链表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/141-环形链表.md) | 简单 | 链表 |
 | 142  | 环形链表 II | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/142-环形链表II.md) | 中等 | 链表 |
 | 151  | 翻转字符串里的单词 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/151-翻转字符串里的单词.md) | 中等 | 数组 |
-| 160  | 相交链表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/160-相交链表.md) | 简单 | 链表 |
+| 160  | 相交链表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/160-相交链表.md) | 简单 | 链表 |
 | 167  | 两数之和 II - 输入有序数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/167-两数之和II-输入有序数组.md) | 简单 | 数组 |
 | 169  | 多数元素 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/169-多数元素.md) | 简单 | 数组 |
 | 179  | 最大数 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/179-最大数.md) | 中等 | 数组 |
 | 189  | 旋转数组 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/189-旋转数组.md) | 简单 | 数组 |
-| 200  |   岛屿数量   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/200-岛屿数量.md) | 中等 | 链表 |
+| 200  |   岛屿数量   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/200-岛屿数量.md) | 中等 | 链表，队列 |
+| 206  |   反转链表   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/206-反转链表.md) | 简单 | 链表 |
 | 209  |   长度最小的子数组   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/209-长度最小的子数组.md) | 中等 | 数组 |
 | 217  |   存在重复元素   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/217-存在重复元素.md) | 简单 | 数组 |
 | 219  |   存在重复元素 II   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/219-存在重复元素II.md) | 简单 | 数组 |
@@ -41,7 +42,7 @@ LeetCode solution for Java or Python.
 | 561  |   数组拆分 I   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/561-数组拆分I.md) | 简单 | 数组 |
 | 581  |   最短无序连续子数组   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/581-最短无序连续子数组.md) | 简单 | 数组 |
 | 605  |   种花问题   | [Java](https://github.com/jluncc/leetcode-solution/blob/master/数组/605-种花问题.md) | 简单 | 数组 |
-| 622  | 设计循环队列 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/622-设计循环队列.md) | 中等 | 链表 |
+| 622  | 设计循环队列 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/622-设计循环队列.md) | 中等 | 链表，队列 |
 | 628  | 三个数的最大乘积 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/628-三个数的最大乘积.md) | 简单 | 数组 |
 | 643  | 子数组最大平均数 I | [Java](https://github.com/jluncc/leetcode-solution/blob/master/队列/643-子数组最大平均数I.md) | 简单 | 数组 |
 | 707  | 设计链表 | [Java](https://github.com/jluncc/leetcode-solution/blob/master/链表/707-设计链表.md) | 中等 | 链表 |
